@@ -8,12 +8,11 @@
         </a>
     </div>
 </div>
-<br />
 <div style="display: flex">
-    <picture style="margin: 0 8px 0 0">
-        <img alt="GitHub Stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=emyasnikov&hide_rank=true&show_icons=true">
+    <picture>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?hide_border=true&hide_rank=true&show_icons=true&username=emyasnikov">
     </picture>
     <picture>
-        <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emyasnikov&layout=compact&langs_count=8">
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&layout=compact&langs_count=8&username=emyasnikov">
     </picture>
 </div>
